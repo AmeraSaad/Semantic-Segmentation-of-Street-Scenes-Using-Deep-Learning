@@ -1,0 +1,3 @@
+train data : https://drive.google.com/drive/folders/14CdSPNGUv7xG_3KXpWUxxz5w7cNuT3np?usp=sharing
+val data : https://drive.google.com/drive/folders/1SQU-5xGE_3XY8D2XNkcrgcok_I450sUy?usp=sharing
+test data : https://drive.google.com/drive/folders/1T1qi6-3-6MDEEYdGCCyQhkPofo_ZcXBx?usp=sharing
